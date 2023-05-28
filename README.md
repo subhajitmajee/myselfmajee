@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @myselfmajee
+- 👋 Hi, I’m @subhajitmajee
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Java-Script
 - 💞️ I’m looking to collaborate on Discord
